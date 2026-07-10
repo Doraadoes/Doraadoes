@@ -31,7 +31,7 @@ LetsSplit! is a web application that helps users split shopping bills fairly amo
 
 ## Author
 
-Shreya Dora## Hi there 👋
+Shreya Dora
 
 <!--
 **Doraadoes/Doraadoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
